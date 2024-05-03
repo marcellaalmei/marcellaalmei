@@ -4,8 +4,8 @@ Meu nome é Marcella Oliveira🥰
 
 <p align="center">
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=laizabsobral&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=laizabsobral&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=marcellaalmei&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=marcellaalmei&theme=dark&hide_border=true" width = 400>
 </p>
 <br />
 <br />
